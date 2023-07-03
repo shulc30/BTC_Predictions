@@ -9,3 +9,4 @@ api_key = ''
 api_secret = ''
 client = Client(api_key, api_secret, testnet=True)
 ~~~
+![LSTM ARCHITECTURE](https://user-images.githubusercontent.com/90880259/173617699-4ecef57b-e6c2-4e67-9c64-e7f470ed157c.png)
